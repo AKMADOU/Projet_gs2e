@@ -1,0 +1,115 @@
+{
+    "sujet": "Quiz sur le Leadership et la Gestion d'Équipe",
+    "questions": [
+    {
+    "question": "Quelle est la différence entre un manager et un leader?",
+    "options": [
+    "Un manager donne des ordres, tandis qu'un leader inspire et motive les autres",
+    "Un manager travaille seul, tandis qu'un leader travaille en équipe",
+    "Un manager est responsable des tâches opérationnelles, tandis qu'un leader est responsable de la stratégie",
+    "Un manager est toujours un leader, mais un leader n'est pas toujours un manager"
+    ],
+    "answer": "Un manager donne des ordres, tandis qu'un leader inspire et motive les autres",
+    "level": "Facile"
+    },
+    {
+    "question": "Quelle est la compétence la plus importante pour un leader?",
+    "options": [
+    "Compétences techniques",
+    "Compétences en communication",
+    "Compétences en résolution de problèmes",
+    "Compétences en gestion du temps"
+    ],
+    "answer": "Compétences en communication",
+    "level": "Facile"
+    },
+    {
+    "question": "Quelle est la signification de l'acronyme SMART dans le contexte de la définition d'objectifs?",
+    "options": [
+    "Spécifique, Mesurable, Acceptable, Réaliste, Temporel",
+    "Stratégique, Motivant, Analytique, Résultat, Tactique",
+    "Sensible, Modeste, Ambitieux, Réaliste, Temporel",
+    "Simple, Mesurable, Atteignable, Résultat, Tactique"
+    ],
+    "answer": "Spécifique, Mesurable, Acceptable, Réaliste, Temporel",
+    "level": "Facile"
+    },
+    {
+    "question": "Quelle est la meilleure approche pour donner des retours constructifs à un membre de l'équipe?",
+    "options": [
+    "Éviter les critiques négatives",
+    "Fournir des commentaires généraux",
+    "Donner des exemples spécifiques et proposer des solutions",
+    "Donner des critiques en public pour renforcer l'effet"
+    ],
+    "answer": "Donner des exemples spécifiques et proposer des solutions",
+    "level": "Facile"
+    },
+    {
+    "question": "Quelle est la clé pour construire et maintenir une équipe performante?",
+    "options": [
+    "La compétition entre les membres de l'équipe",
+    "Un leadership autoritaire",
+    "La communication ouverte et la collaboration",
+    "Le micro-management constant"
+    ],
+    "answer": "La communication ouverte et la collaboration",
+    "level": "Facile"
+    },
+    {
+    "question": "Quelle est la différence entre la gestion du temps et la gestion des priorités?",
+    "options": [
+    "La gestion du temps consiste à organiser les tâches dans un calendrier, tandis que la gestion des priorités consiste à déterminer quelles tâches sont les plus importantes",
+    "La gestion du temps est une compétence individuelle, tandis que la gestion des priorités est une compétence de l'équipe",
+    "La gestion du temps concerne les échéances, tandis que la gestion des priorités concerne les objectifs",
+    "La gestion du temps est une responsabilité du leader, tandis que la gestion des priorités est une responsabilité du manager"
+    ],
+    "answer": "La gestion du temps consiste à organiser les tâches dans un calendrier, tandis que la gestion des priorités consiste à déterminer quelles tâches sont les plus importantes",
+    "level": "Moyen"
+    },
+    {
+    "question": "Qu'est-ce que le concept de leadership transformationnel?",
+    "options": [
+    "Un style de leadership axé sur les résultats et les performances individuelles",
+    "Un style de leadership qui encourage la conformité aux règles et aux procédures établies",
+    "Un style de leadership qui inspire et motive les membres de l'équipe à atteindre leur plein potentiel",
+    "Un style de leadership qui se concentre sur la supervision directe et le contrôle des activités quotidiennes"
+    ],
+    "answer": "Un style de leadership qui inspire et motive les membres de l'équipe à atteindre leur plein potentiel",
+    "level": "Moyen"
+    },
+    {
+    "question": "Qu'est-ce que la gestion des conflits dans une équipe?",
+    "options": [
+    "Éviter les conflits à tout prix",
+    "Résoudre les conflits en prenant des décisions unilatérales",
+    "Encourager le débat ouvert et trouver des solutions mutuellement bénéfiques",
+    "Exclure les membres de l'équipe qui ne s'entendent pas"
+    ],
+    "answer": "Encourager le débat ouvert et trouver des solutions mutuellement bénéfiques",
+    "level": "Moyen"
+    },
+    {
+    "question": "Quelle est l'importance de la confiance dans une équipe?",
+    "options": [
+    "La confiance est essentielle pour la performance de l'équipe et la réalisation des objectifs",
+    "La confiance est un signe de faiblesse dans un environnement professionnel",
+    "La confiance n'a pas d'importance tant que les résultats sont atteints",
+    "La confiance est seulement importante entre les membres de l'équipe et le leader"
+    ],
+    "answer": "La confiance est essentielle pour la performance de l'équipe et la réalisation des objectifs",
+    "level": "Moyen"
+    },
+    {
+    "question": "Qu'est-ce que le coaching en leadership?",
+    "options": [
+    "Donner des ordres et superviser étroitement les activités de l'équipe",
+    "Développer les compétences et les talents des membres de l'équipe par le mentorat et le feedback",
+    "Appliquer des méthodes strictes pour évaluer les performances de l'équipe",
+    "Reporter les erreurs et les échecs des membres de l'équipe aux supérieurs hiérarchiques"
+    ],
+    "answer": "Développer les compétences et les talents des membres de l'équipe par le mentorat et le feedback",
+    "level": "Moyen"
+    }
+    ]
+    }

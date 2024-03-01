@@ -1,0 +1,117 @@
+{
+    "sujet": "Quiz sur la Gestion du Temps et des Priorités",
+    "questions": [
+    {
+    "question": "Qu'est-ce que la gestion du temps?",
+    "options": [
+    "Planifier toutes les tâches à l'avance",
+    "Travailler aussi longtemps que possible sur une tâche",
+    "Équilibrer efficacement les différentes exigences de temps pour maximiser la productivité",
+    "Reporter les tâches jusqu'à ce qu'elles deviennent urgentes"
+    ],
+    "answer": "Équilibrer efficacement les différentes exigences de temps pour maximiser la productivité",
+    "level": "Facile"
+    },
+    {
+    "question": "Quelle est la première étape de la gestion des priorités?",
+    "options": [
+    "Faire une liste exhaustive de toutes les tâches à accomplir",
+    "Évaluer l'urgence de chaque tâche",
+    "Commencer par les tâches les plus faciles",
+    "Attendre que les tâches deviennent urgentes avant de les aborder"
+    ],
+    "answer": "Faire une liste exhaustive de toutes les tâches à accomplir",
+    "level": "Facile"
+    },
+    {
+    "question": "Quelle est la signification de l'acronyme 'ABCDE' dans le contexte de la gestion des priorités?",
+    "options": [
+    "Analyse, Bilan, Classement, Délégation, Exécution",
+    "Attribuer, Basculer, Créer, Décider, Evaluer",
+    "Améliorer, Basculer, Coordonner, Décider, Évaluer",
+    "Annuler, Bloquer, Compléter, Déléguer, Évaluer"
+    ],
+    "answer": "Analyse, Bilan, Classement, Délégation, Exécution",
+    "level": "Facile"
+    },
+    {
+    "question": "Qu'est-ce que la matrice d'Eisenhower dans le contexte de la gestion des priorités?",
+    "options": [
+    "Un modèle de prise de décision basé sur le consensus",
+    "Un modèle de gestion du temps qui classe les tâches en fonction de leur urgence et de leur importance",
+    "Un modèle de gestion de projet utilisé pour suivre l'avancement des tâches",
+    "Un modèle de gestion des conflits dans les équipes de travail"
+    ],
+    "answer": "Un modèle de gestion du temps qui classe les tâches en fonction de leur urgence et de leur importance",
+    "level": "Facile"
+    },
+    {
+    "question": "Qu'est-ce que la procrastination?",
+    "options": [
+    "Une méthode de gestion du temps efficace",
+    "La tendance à reporter les tâches importantes",
+    "Une compétence nécessaire pour gérer un grand volume de travail",
+    "Une technique de résolution de problèmes"
+    ],
+    "answer": "La tendance à reporter les tâches importantes",
+    "level": "Facile"
+    },
+    {
+    "question": "Qu'est-ce que le principe de Pareto dans le contexte de la gestion du temps?",
+    "options": [
+    "Prioriser les tâches en fonction de leur durée estimée",
+    "Fournir un rapport détaillé sur l'utilisation du temps",
+    "Concentrer ses efforts sur les tâches les plus importantes et les plus rentables",
+    "Établir un budget de temps pour chaque tâche"
+    ],
+    "answer": "Concentrer ses efforts sur les tâches les plus importantes et les plus rentables",
+    "level": "Moyen"
+    },
+    {
+    "question": "Qu'est-ce que la gestion du temps bloc?",
+    "options": [
+    "Une méthode pour organiser les tâches en blocs de temps spécifiques",
+    "Une méthode de gestion du temps qui consiste à reporter les tâches jusqu'à ce qu'elles deviennent urgentes",
+    "Une méthode pour minimiser le temps passé sur chaque tâche",
+    "Une méthode de gestion du temps qui consiste à sauter d'une tâche à l'autre sans terminer aucune d'entre elles"
+    ],
+    "answer": "Une méthode pour organiser les tâches en blocs de temps spécifiques",
+    "level": "Moyen"
+    },
+    {
+    "question": "Qu'est-ce que la loi de Parkinson en matière de gestion du temps?",
+    "options": [
+    "La tendance à reporter les tâches jusqu'à ce qu'elles deviennent urgentes",
+    "La tendance à gaspiller du temps sur des tâches non essentielles",
+    "Le principe selon lequel le travail se dilate pour remplir le temps disponible pour son achèvement",
+    "La tendance à ignorer les tâches importantes au profit des tâches moins importantes mais plus agréables"
+    ],
+    "answer": "Le principe selon lequel le travail se dilate pour remplir le temps disponible pour son achèvement",
+    "level": "Moyen"
+    },
+    {
+    "question": "Quelle est la meilleure stratégie pour gérer les interruptions et les distractions pendant le travail?",
+    "options": [
+    "Répondre immédiatement à toutes les interruptions pour éviter de les laisser s'accumuler",
+    "Ignorer les interruptions et les distractions jusqu'à ce que la tâche en cours soit terminée",
+    "Planifier des moments spécifiques pour répondre aux interruptions et aux distractions",
+    "Encourager les interruptions pour favoriser un environnement de travail collaboratif"
+    ],
+    "answer": "Planifier des moments spécifiques pour répondre aux interruptions et aux distractions",
+    "level": "Moyen"
+    },
+    {
+    "question": "Quels sont les avantages de la délégation dans la gestion des priorités?",
+    "options": [
+    "La délégation permet de se décharger de toute responsabilité",
+    "La délégation permet de partager la charge de travail et de libérer du temps pour des tâches importantes",
+    "La délégation est inefficace et ne devrait pas être utilisée",
+    "La délégation permet de contrôler étroitement les activités des autres membres de l'équipe"
+    ],
+    "answer": "La délégation permet de partager la charge de travail et de libérer du temps pour des tâches importantes",
+    "level": "Moyen"
+    }
+    ]
+    }
+    
+    

@@ -1,0 +1,117 @@
+{
+    "sujet": "Quiz sur la Gestion de Projet",
+    "questions": [
+    {
+    "question": "Qu'est-ce qu'un projet?",
+    "options": [
+    "Une tâche simple nécessitant peu d'efforts",
+    "Une série de tâches liées entre elles visant à atteindre un objectif spécifique dans un laps de temps défini et avec des ressources limitées",
+    "Une action imprévue qui perturbe le cours normal des activités",
+    "Une décision prise par la direction sans consultation des parties prenantes"
+    ],
+    "answer": "Une série de tâches liées entre elles visant à atteindre un objectif spécifique dans un laps de temps défini et avec des ressources limitées",
+    "level": "Facile"
+    },
+    {
+    "question": "Qu'est-ce que la gestion de projet?",
+    "options": [
+    "Ignorer les échéances et les budgets",
+    "Un processus de planification, d'organisation, de direction et de contrôle des ressources pour atteindre des objectifs spécifiques dans un projet",
+    "Reporter les problèmes jusqu'à ce qu'ils deviennent insurmontables",
+    "Une méthode pour rendre les projets plus compliqués"
+    ],
+    "answer": "Un processus de planification, d'organisation, de direction et de contrôle des ressources pour atteindre des objectifs spécifiques dans un projet",
+    "level": "Facile"
+    },
+    {
+    "question": "Quelles sont les principales phases d'un projet selon le modèle de gestion de projet traditionnel?",
+    "options": [
+    "Planification, exécution, abandon",
+    "Initiation, planification, exécution, surveillance et contrôle, clôture",
+    "Développement, analyse, conception",
+    "Rapports, audits, révisions"
+    ],
+    "answer": "Initiation, planification, exécution, surveillance et contrôle, clôture",
+    "level": "Facile"
+    },
+    {
+    "question": "Qu'est-ce qu'un objectif SMART dans la gestion de projet?",
+    "options": [
+    "Un objectif difficile à définir",
+    "Un objectif défini par la direction sans consultation des parties prenantes",
+    "Un objectif spécifique, mesurable, atteignable, pertinent et limité dans le temps",
+    "Un objectif déconnecté des réalités du projet"
+    ],
+    "answer": "Un objectif spécifique, mesurable, atteignable, pertinent et limité dans le temps",
+    "level": "Facile"
+    },
+    {
+    "question": "Qu'est-ce que le chemin critique dans la gestion de projet?",
+    "options": [
+    "Le chemin le plus long dans un projet",
+    "La séquence d'activités qui détermine la durée totale du projet",
+    "Un terme obsolète dans la gestion de projet",
+    "Un outil pour évaluer les performances des membres de l'équipe"
+    ],
+    "answer": "La séquence d'activités qui détermine la durée totale du projet",
+    "level": "Facile"
+    },
+    {
+    "question": "Qu'est-ce que la gestion des risques dans la gestion de projet?",
+    "options": [
+    "Ignorer complètement les risques",
+    "Identifier, évaluer et contrôler les risques potentiels pouvant affecter le succès d'un projet",
+    "Reporter les risques jusqu'à ce qu'ils se matérialisent",
+    "Éviter les projets à risque"
+    ],
+    "answer": "Identifier, évaluer et contrôler les risques potentiels pouvant affecter le succès d'un projet",
+    "level": "Facile"
+    },
+    {
+    "question": "Qu'est-ce que le diagramme de Gantt?",
+    "options": [
+    "Un diagramme utilisé pour représenter les dépendances entre les activités d'un projet",
+    "Un diagramme utilisé pour représenter la structure hiérarchique des tâches dans un projet",
+    "Un diagramme utilisé pour représenter les ressources allouées à un projet",
+    "Un diagramme utilisé pour représenter les flux de travail dans un projet"
+    ],
+    "answer": "Un diagramme utilisé pour représenter les dépendances entre les activités d'un projet",
+    "level": "Facile"
+    },
+    {
+    "question": "Qu'est-ce que le budget d'un projet?",
+    "options": [
+    "La somme d'argent allouée pour le projet",
+    "La durée totale du projet",
+    "Le nombre total de membres de l'équipe du projet",
+    "Le calendrier des activités du projet"
+    ],
+    "answer": "La somme d'argent allouée pour le projet",
+    "level": "Facile"
+    },
+    {
+    "question": "Quelle est l'importance de la communication dans la gestion de projet?",
+    "options": [
+    "La communication n'est pas importante dans la gestion de projet",
+    "La communication permet de partager des informations, de coordonner les activités, de résoudre les problèmes et de maintenir la motivation de l'équipe",
+    "La communication doit être évitée pour empêcher la divulgation d'informations confidentielles",
+    "La communication ne concerne que les membres de l'équipe du projet"
+    ],
+    "answer": "La communication permet de partager des informations, de coordonner les activités, de résoudre les problèmes et de maintenir la motivation de l'équipe",
+    "level": "Facile"
+    },
+    {
+    "question": "Quelles sont les compétences clés d'un chef de projet efficace?",
+    "options": [
+    "Manque de leadership, manque de compétences techniques, manque de communication",
+    "Leadership, planification, organisation, communication, gestion du temps, résolution de problèmes",
+    "Suivre strictement les procédures établies, éviter toute forme de changement, ignorer les besoins des parties prenantes",
+    "Rigidité, manque d'adaptabilité, manque de responsabilité"
+    ],
+    "answer": "Leadership, planification, organisation, communication, gestion du temps, résolution de problèmes",
+    "level": "Facile"
+    }
+    ]
+    }
+    
+    

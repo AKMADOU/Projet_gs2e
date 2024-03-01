@@ -1,0 +1,115 @@
+{
+  "sujet": "Agilité et Scrum",
+  "questions": [
+    {
+      "question": "Qu'est-ce que la méthodologie Agile?",
+      "options": [
+        "Un framework de gestion de projet",
+        "Une approche pour le développement de logiciels",
+        "Un langage de programmation",
+        "Un type de base de données"
+      ],
+      "answer": "Une approche pour le développement de logiciels",
+      "level": 3
+    },
+    {
+      "question": "Quel est le rôle du Scrum Master dans Scrum?",
+      "options": [
+        "Manager des ressources humaines",
+        "Faciliter le processus Scrum",
+        "Écrire du code",
+        "Créer des rapports financiers"
+      ],
+      "answer": "Faciliter le processus Scrum",
+      "level": 2
+    },
+    {
+      "question": "Qu'est-ce qu'une user story dans le contexte de Scrum?",
+      "options": [
+        "Une histoire fictive",
+        "Une fonctionnalité du produit vue du point de vue de l'utilisateur",
+        "Un problème technique",
+        "Un cas de test"
+      ],
+      "answer": "Une fonctionnalité du produit vue du point de vue de l'utilisateur",
+      "level": 4
+    },
+    {
+      "question": "Quel est le principe clé derrière le manifeste Agile?",
+      "options": [
+        "Planification détaillée",
+        "Répondre aux changements plutôt que suivre un plan",
+        "Documentation exhaustive",
+        "Travail individuel plutôt que collaboratif"
+      ],
+      "answer": "Répondre aux changements plutôt que suivre un plan",
+      "level": 3
+    },
+    {
+      "question": "Quelle est la durée d'un sprint dans Scrum?",
+      "options": [
+        "2 semaines",
+        "1 mois",
+        "3 mois",
+        "Variable, selon les besoins du projet"
+      ],
+      "answer": "Variable, selon les besoins du projet",
+      "level": 2
+    },
+    {
+      "question": "Quel est le rôle du Product Owner dans Scrum?",
+      "options": [
+        "Gérer les ressources matérielles",
+        "Prioriser le backlog et définir les objectifs",
+        "Concevoir l'architecture technique",
+        "Assurer la qualité du code"
+      ],
+      "answer": "Prioriser le backlog et définir les objectifs",
+      "level": 4
+    },
+    {
+      "question": "Quel est l'artefact principal de Scrum pour suivre les travaux à faire?",
+      "options": [
+        "Diagramme de Gantt",
+        "Burndown Chart",
+        "Tableau blanc",
+        "Feuille de calcul Excel"
+      ],
+      "answer": "Burndown Chart",
+      "level": 3
+    },
+    {
+      "question": "Quel est le concept clé derrière la rétrospective de sprint dans Scrum?",
+      "options": [
+        "Évaluation du code source",
+        "Révision des tests de l'itération",
+        "Amélioration continue du processus",
+        "Analyse des coûts du projet"
+      ],
+      "answer": "Amélioration continue du processus",
+      "level": 2
+    },
+    {
+      "question": "Quel est l'objectif principal de la cérémonie de sprint planning?",
+      "options": [
+        "Résoudre les problèmes de l'équipe",
+        "Définir les fonctionnalités à développer lors du prochain sprint",
+        "Examiner les résultats du dernier sprint",
+        "Créer des rapports pour la direction"
+      ],
+      "answer": "Définir les fonctionnalités à développer lors du prochain sprint",
+      "level": 4
+    },
+    {
+      "question": "Quel est le rôle de l'équipe de développement dans Scrum?",
+      "options": [
+        "Élaborer des stratégies marketing",
+        "Écrire du code et créer des tests",
+        "Gérer les ressources financières",
+        "Élaborer des plans de projet"
+      ],
+      "answer": "Écrire du code et créer des tests",
+      "level": 3
+    }
+  ]
+}

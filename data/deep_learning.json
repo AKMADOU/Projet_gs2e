@@ -1,0 +1,115 @@
+{
+    "sujet": "Reconnaissance d'images avec Deep Learning",
+    "questions": [
+        {
+            "question": "Quel est l'avantage principal du Deep Learning par rapport aux méthodes traditionnelles de traitement d'images?",
+            "options": [
+              "Meilleure précision",
+              "Temps de formation plus court",
+              "Moins de données d'entraînement nécessaires",
+              "Facilité de mise en œuvre"
+            ],
+            "answer": "Meilleure précision",
+            "level": "Facile"
+        },
+        {
+            "question": "Quelle est l'étape initiale dans la construction d'un modèle de Deep Learning pour la reconnaissance d'images?",
+            "options": [
+              "Collecte des données",
+              "Prétraitement des données",
+              "Entraînement du modèle",
+              "Validation du modèle"
+            ],
+            "answer": "Collecte des données",
+            "level": "Facile"
+        },
+        {
+            "question": "Quelle architecture de réseau de neurones est souvent utilisée pour les tâches de reconnaissance d'images?",
+            "options": [
+              "CNN (Convolutional Neural Network)",
+              "RNN (Recurrent Neural Network)",
+              "MLP (Multi-Layer Perceptron)",
+              "GAN (Generative Adversarial Network)"
+            ],
+            "answer": "CNN (Convolutional Neural Network)",
+            "level": "Facile"
+        },
+        {
+            "question": "Quelle est la fonction d'activation couramment utilisée dans les couches cachées d'un réseau de neurones convolutionnel (CNN)?",
+            "options": [
+              "ReLU (Rectified Linear Unit)",
+              "Sigmoid",
+              "Tangente hyperbolique (Tanh)",
+              "Softmax"
+            ],
+            "answer": "ReLU (Rectified Linear Unit)",
+            "level": "Facile"
+        },
+        {
+            "question": "Quelle est la couche finale d'un CNN utilisée pour classer les images dans différentes catégories?",
+            "options": [
+              "Couche de convolution",
+              "Couche d'aplatissement (Flatten)",
+              "Couche de sortie (Output)",
+              "Couche de regroupement (Pooling)"
+            ],
+            "answer": "Couche de sortie (Output)",
+            "level": "Facile"
+        },
+        {
+            "question": "Quelle est la méthode courante pour évaluer les performances d'un modèle de reconnaissance d'images?",
+            "options": [
+              "Accuracy (Précision)",
+              "Mean Squared Error (MSE)",
+              "F1 Score",
+              "Aire sous la courbe ROC (ROC AUC)"
+            ],
+            "answer": "Accuracy (Précision)",
+            "level": "Moyen"
+        },
+        {
+            "question": "Quelle technique est utilisée pour augmenter la taille de l'ensemble de données d'entraînement en introduisant des variations mineures dans les images?",
+            "options": [
+              "Data Augmentation (Augmentation de données)",
+              "Data Normalization (Normalisation des données)",
+              "Data Preprocessing (Prétraitement des données)",
+              "Data Cleaning (Nettoyage des données)"
+            ],
+            "answer": "Data Augmentation (Augmentation de données)",
+            "level": "Moyen"
+        },
+        {
+            "question": "Quelle est la pratique courante pour régulariser un modèle de Deep Learning afin d'éviter le surajustement?",
+            "options": [
+              "Dropout",
+              "Batch Normalization",
+              "Regularization Loss",
+              "Learning Rate Decay"
+            ],
+            "answer": "Dropout",
+            "level": "Moyen"
+        },
+        {
+            "question": "Quelle méthode est utilisée pour prétraiter les images en ajustant leurs valeurs de pixels pour faciliter l'apprentissage?",
+            "options": [
+              "Standardization (Standardisation)",
+              "Normalization (Normalisation)",
+              "Resizing (Redimensionnement)",
+              "Cropping (Rognage)"
+            ],
+            "answer": "Normalization (Normalisation)",
+            "level": "Moyen"
+        },
+        {
+            "question": "Quel est l'un des frameworks populaires pour la construction de modèles de Deep Learning?",
+            "options": [
+              "TensorFlow",
+              "PyTorch",
+              "Keras",
+              "Tous les choix ci-dessus"
+            ],
+            "answer": "Tous les choix ci-dessus",
+            "level": "Moyen"
+        }
+    ]
+}

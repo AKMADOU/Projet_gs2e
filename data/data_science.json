@@ -1,0 +1,115 @@
+{
+    "sujet": "Quiz sur les Data Scientists",
+    "questions": [
+    {
+    "question": "Quel est le langage de programmation le plus couramment utilisé par les Data Scientists?",
+    "options": [
+    "Python",
+    "Java",
+    "C++",
+    "JavaScript"
+    ],
+    "answer": "Python",
+    "level": "Facile"
+    },
+    {
+    "question": "Quel type de base de données est souvent utilisé pour stocker de grandes quantités de données non structurées?",
+    "options": [
+    "SQL",
+    "NoSQL",
+    "MySQL",
+    "PostgreSQL"
+    ],
+    "answer": "NoSQL",
+    "level": "Facile"
+    },
+    {
+    "question": "Quel est l'objectif principal de l'analyse exploratoire des données (EDA) pour un Data Scientist?",
+    "options": [
+    "Trouver des corrélations entre les variables",
+    "Développer des modèles prédictifs",
+    "Nettoyer et préparer les données",
+    "Visualiser les données"
+    ],
+    "answer": "Visualiser les données",
+    "level": "Facile"
+    },
+    {
+    "question": "Quel est le processus de transformation de données brutes en un format plus utile pour l'analyse appelé?",
+    "options": [
+    "Nettoyage des données",
+    "Exploration des données",
+    "Prétraitement des données",
+    "Modélisation des données"
+    ],
+    "answer": "Prétraitement des données",
+    "level": "Moyen"
+    },
+    {
+    "question": "Quel algorithme est souvent utilisé pour la classification dans l'apprentissage automatique?",
+    "options": [
+    "K-Means",
+    "Random Forest",
+    "PCA",
+    "SVM"
+    ],
+    "answer": "SVM",
+    "level": "Moyen"
+    },
+    {
+    "question": "Quelle bibliothèque Python est principalement utilisée pour le traitement et l'analyse des données?",
+    "options": [
+    "TensorFlow",
+    "Keras",
+    "Matplotlib",
+    "Pandas"
+    ],
+    "answer": "Pandas",
+    "level": "Moyen"
+    },
+    {
+    "question": "Qu'est-ce que la validation croisée est utilisée pour évaluer dans l'apprentissage automatique?",
+    "options": [
+    "La précision du modèle",
+    "La vitesse de convergence",
+    "L'interprétabilité du modèle",
+    "La généralisation du modèle"
+    ],
+    "answer": "La généralisation du modèle",
+    "level": "Difficile"
+    },
+    {
+    "question": "Quelle méthode est utilisée pour réduire la dimensionnalité des données en conservant le plus d'informations possible?",
+    "options": [
+    "SVD",
+    "PCA",
+    "K-Means",
+    "LDA"
+    ],
+    "answer": "PCA",
+    "level": "Difficile"
+    },
+    {
+    "question": "Quelle technique est utilisée pour traiter les valeurs manquantes dans un ensemble de données?",
+    "options": [
+    "Imputation",
+    "Normalisation",
+    "Transformation",
+    "Discrétisation"
+    ],
+    "answer": "Imputation",
+    "level": "Difficile"
+    },
+    {
+    "question": "Quelle étape de l'apprentissage automatique consiste à ajuster les paramètres du modèle pour minimiser l'erreur sur les données d'entraînement?",
+    "options": [
+    "Prétraitement",
+    "Validation",
+    "Test",
+    "Entraînement"
+    ],
+    "answer": "Entraînement",
+    "level": "Difficile"
+    }
+    ]
+    }

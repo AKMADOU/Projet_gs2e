@@ -1,0 +1,71 @@
+
+
+1) Qu'est-ce que la Data Science?
+a) Une méthode de collecte de données
+b) Une discipline qui analyse et interprète les données
+c) Un logiciel pour visualiser les données
+d) Une technique pour stocker les données
+ (Bonne réponse: b) Une discipline qui analyse et interprète les données)
+
+2) Quel est l'objectif principal de la Data Science?
+a) Prédire l'avenir
+b) Optimiser les processus
+c) Trouver des tendances dans les données
+d) Toutes les réponses ci-dessus
+ (Bonne réponse: d) Toutes les réponses ci-dessus)
+
+3) Quelle est la première étape du processus de Data Science?
+a) Collecte de données
+b) Nettoyage de données
+c) Analyse exploratoire des données
+d) Modélisation des données
+ (Bonne réponse: a) Collecte de données)
+
+4) Qu'est-ce que la régression dans la Data Science?
+a) Une méthode pour prédire des valeurs continues
+b) Une technique pour visualiser les données
+c) Une méthode pour identifier des groupes dans les données
+d) Une méthode pour déterminer la corrélation entre deux variables
+ (Bonne réponse: a) Une méthode pour prédire des valeurs continues)
+
+5) Qu'est-ce que la validation croisée?
+a) Une méthode pour vérifier l'exactitude des prédictions
+b) Une méthode pour nettoyer les données
+c) Une technique pour visualiser les données
+d) Une méthode pour sélectionner les variables les plus importantes
+ (Bonne réponse: a) Une méthode pour vérifier l'exactitude des prédictions)
+
+6) Quelle est la différence entre l'apprentissage supervisé et l'apprentissage non supervisé?
+a) L'apprentissage supervisé a besoin d'un jeu de données étiqueté, l'apprentissage non supervisé n'en a pas besoin
+b) L'apprentissage supervisé est plus précis que l'apprentissage non supervisé
+c) L'apprentissage supervisé est utilisé pour les données structurées, l'apprentissage non supervisé est utilisé pour les données non structurées
+d) Il n'y a pas de différence entre les deux
+ (Bonne réponse: a) L'apprentissage supervisé a besoin d'un jeu de données étiqueté, l'apprentissage non supervisé n'en a pas besoin)
+
+7) Qu'est-ce qu'une variable catégorique?
+a) Une variable qui peut prendre n'importe quelle valeur numérique
+b) Une variable qui prend des valeurs discrètes
+c) Une variable qui représente une catégorie ou une classe
+d) Une variable qui ne peut pas être utilisée dans un modèle de prédiction
+ (Bonne réponse: c) Une variable qui représente une catégorie ou une classe)
+
+8) Qu'est-ce qu'un algorithme de clustering?
+a) Un algorithme pour prédire des valeurs continues
+b) Un algorithme pour identifier des tendances dans les données
+c) Un algorithme pour regrouper des données similaires ensemble
+d) Un algorithme pour nettoyer les données
+ (Bonne réponse: c) Un algorithme pour regrouper des données similaires ensemble)
+
+9) Qu'est-ce que le Deep Learning?
+a) Un type de visualisation de données
+b) Une méthode pour analyser les données à un niveau plus profond
+c) Une technique pour nettoyer les données
+d) Un algorithme pour prédire des valeurs catégoriques
+ (Bonne réponse: b) Une méthode pour analyser les données à un niveau plus profond)
+
+10) Quel est l'avantage de l'utilisation de la Data Science dans les entreprises?
+a) Prédire les tendances du marché
+b) Optimiser les processus et réduire les coûts
+c) Prendre des décisions basées sur des données plutôt que sur l'intuition
+d) Toutes les réponses ci-dessus
+ (Bonne réponse: d) Toutes les réponses ci-dessus)

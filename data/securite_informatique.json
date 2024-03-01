@@ -1,0 +1,115 @@
+{
+    "sujet": "Quiz sur la Sécurité Informatique",
+    "questions": [
+    {
+    "question": "Qu'est-ce que le 'phishing'?",
+    "options": [
+    "Une attaque visant à prendre le contrôle d'un ordinateur distant",
+    "Une technique d'ingénierie sociale visant à tromper les utilisateurs pour obtenir des informations personnelles",
+    "Un logiciel malveillant conçu pour se propager rapidement sur un réseau",
+    "Une méthode de cryptage utilisée pour sécuriser les communications en ligne"
+    ],
+    "answer": "Une technique d'ingénierie sociale visant à tromper les utilisateurs pour obtenir des informations personnelles",
+    "level": "Facile"
+    },
+    {
+    "question": "Quelle est la meilleure pratique pour créer un mot de passe sécurisé?",
+    "options": [
+    "Utiliser des mots de passe courts et simples",
+    "Utiliser le même mot de passe pour plusieurs comptes",
+    "Inclure des lettres majuscules, des minuscules, des chiffres et des caractères spéciaux",
+    "Écrire le mot de passe sur un post-it et le coller sur l'écran de l'ordinateur"
+    ],
+    "answer": "Inclure des lettres majuscules, des minuscules, des chiffres et des caractères spéciaux",
+    "level": "Facile"
+    },
+    {
+    "question": "Quel est le principal objectif de l'utilisation d'un pare-feu dans un réseau informatique?",
+    "options": [
+    "Protéger contre les attaques par force brute",
+    "Scanner les virus sur les disques durs",
+    "Contrôler et filtrer le trafic réseau",
+    "Encrypter les données sensibles"
+    ],
+    "answer": "Contrôler et filtrer le trafic réseau",
+    "level": "Facile"
+    },
+    {
+    "question": "Quelle est la meilleure pratique pour éviter les logiciels malveillants?",
+    "options": [
+    "Télécharger des logiciels à partir de sources non fiables",
+    "Cliquer sur des liens suspects dans des e-mails",
+    "Mettre à jour régulièrement les logiciels et les systèmes d'exploitation",
+    "Partager des mots de passe avec des collègues de travail"
+    ],
+    "answer": "Mettre à jour régulièrement les logiciels et les systèmes d'exploitation",
+    "level": "Facile"
+    },
+    {
+    "question": "Qu'est-ce qu'une attaque par déni de service distribué (DDoS)?",
+    "options": [
+    "Une attaque visant à voler des informations sensibles",
+    "Une attaque visant à bloquer l'accès à un service en inondant le serveur de requêtes",
+    "Une attaque visant à infecter un grand nombre de machines pour les utiliser dans des attaques futures",
+    "Une attaque visant à modifier les données transitant entre deux parties"
+    ],
+    "answer": "Une attaque visant à bloquer l'accès à un service en inondant le serveur de requêtes",
+    "level": "Facile"
+    },
+    {
+    "question": "Quelle est la méthode de sécurité qui consiste à diviser un réseau en segments pour limiter l'accès?",
+    "options": [
+    "Pare-feu",
+    "VPN",
+    "Authentification à deux facteurs",
+    "Ségrégation du réseau"
+    ],
+    "answer": "Ségrégation du réseau",
+    "level": "Moyen"
+    },
+    {
+    "question": "Quelle est la pratique recommandée pour protéger un réseau sans fil?",
+    "options": [
+    "Désactiver le cryptage",
+    "Utiliser un SSID par défaut",
+    "Activer le filtrage MAC",
+    "Partager le mot de passe avec les voisins"
+    ],
+    "answer": "Activer le filtrage MAC",
+    "level": "Moyen"
+    },
+    {
+    "question": "Qu'est-ce que la 'cryptographie asymétrique'?",
+    "options": [
+    "Un algorithme de chiffrement qui utilise la même clé pour chiffrer et déchiffrer les données",
+    "Un algorithme de chiffrement qui utilise deux clés distinctes, une pour le chiffrement et une pour le déchiffrement",
+    "Un type de cryptage utilisé uniquement pour les données texte",
+    "Un protocole de sécurité obsolète"
+    ],
+    "answer": "Un algorithme de chiffrement qui utilise deux clés distinctes, une pour le chiffrement et une pour le déchiffrement",
+    "level": "Moyen"
+    },
+    {
+    "question": "Quelle est la principale fonction d'un système de détection d'intrusion (IDS)?",
+    "options": [
+    "Bloquer les attaques avant qu'elles n'atteignent le réseau",
+    "Surveiller et analyser le trafic réseau pour détecter les comportements suspects",
+    "Créer des tunnels sécurisés pour la transmission de données sensibles",
+    "Crypter les données en transit sur le réseau"
+    ],
+    "answer": "Surveiller et analyser le trafic réseau pour détecter les comportements suspects",
+    "level": "Moyen"
+    },
+    {
+    "question": "Quelle est la première étape d'une analyse de vulnérabilité?",
+    "options": [
+    "Exploiter les vulnérabilités identifiées",
+    "Scanner le réseau pour trouver des vulnérabilités",
+    "Corriger les vulnérabilités",
+    "Classer les vulnérabilités par ordre de priorité"
+    ],
+    "answer": "Scanner le réseau pour trouver des vulnérabilités",
+    "level": "Moyen"
+    }
+    ]
+    }

@@ -1,0 +1,115 @@
+{
+    "sujet": "Quiz sur Python",
+    "questions": [
+    {
+    "question": "Quel opérateur est utilisé pour concaténer deux chaînes de caractères en Python?",
+    "options": [
+    "+",
+    "&",
+    "|",
+    "-"
+    ],
+    "answer": "+",
+    "level": "Facile"
+    },
+    {
+    "question": "Quelle est la méthode utilisée pour obtenir la longueur d'une liste en Python?",
+    "options": [
+    "size()",
+    "length()",
+    "count()",
+    "len()"
+    ],
+    "answer": "len()",
+    "level": "Facile"
+    },
+    {
+    "question": "Quel est le mot-clé utilisé pour définir une fonction en Python?",
+    "options": [
+    "function",
+    "define",
+    "def",
+    "func"
+    ],
+    "answer": "def",
+    "level": "Facile"
+    },
+    {
+    "question": "Quelle fonction est utilisée pour imprimer du texte à l'écran en Python?",
+    "options": [
+    "print()",
+    "display()",
+    "show()",
+    "output()"
+    ],
+    "answer": "print()",
+    "level": "Facile"
+    },
+    {
+    "question": "Quel est le résultat de l'expression 3 * (2 + 1) en Python?",
+    "options": [
+    "9",
+    "6",
+    "7",
+    "5"
+    ],
+    "answer": "9",
+    "level": "Facile"
+    },
+    {
+    "question": "Quelle structure de données est utilisée pour stocker des éléments de manière non ordonnée en Python?",
+    "options": [
+    "Liste",
+    "Tuple",
+    "Dictionnaire",
+    "Ensemble"
+    ],
+    "answer": "Dictionnaire",
+    "level": "Moyen"
+    },
+    {
+    "question": "Quelle est la façon de commenter une ligne de code en Python?",
+    "options": [
+    "//",
+    "/* */",
+    "#",
+    "--"
+    ],
+    "answer": "#",
+    "level": "Moyen"
+    },
+    {
+    "question": "Quelle méthode est utilisée pour ajouter un élément à la fin d'une liste en Python?",
+    "options": [
+    "add()",
+    "append()",
+    "insert()",
+    "extend()"
+    ],
+    "answer": "append()",
+    "level": "Moyen"
+    },
+    {
+    "question": "Quelle est la fonction utilisée pour ouvrir un fichier en mode lecture en Python?",
+    "options": [
+    "open()",
+    "read()",
+    "load()",
+    "file()"
+    ],
+    "answer": "open()",
+    "level": "Moyen"
+    },
+    {
+    "question": "Quelle est la méthode utilisée pour supprimer un élément d'un dictionnaire en Python?",
+    "options": [
+    "remove()",
+    "delete()",
+    "pop()",
+    "discard()"
+    ],
+    "answer": "pop()",
+    "level": "Moyen"
+    }
+    ]
+    }

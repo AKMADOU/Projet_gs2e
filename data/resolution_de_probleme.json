@@ -1,0 +1,115 @@
+{
+    "sujet": "Quiz sur la Résolution de Problèmes",
+    "questions": [
+    {
+    "question": "Qu'est-ce que la résolution de problèmes?",
+    "options": [
+    "Éviter les problèmes à tout prix",
+    "Identifier et trouver des solutions aux défis et aux obstacles",
+    "Reporter les problèmes jusqu'à ce qu'ils deviennent urgents",
+    "Ignorer les problèmes en espérant qu'ils disparaîtront d'eux-mêmes"
+    ],
+    "answer": "Identifier et trouver des solutions aux défis et aux obstacles",
+    "level": "Facile"
+    },
+    {
+    "question": "Quelle est la première étape dans le processus de résolution de problèmes?",
+    "options": [
+    "Agir impulsivement pour résoudre le problème le plus rapidement possible",
+    "Ignorer le problème et espérer qu'il se résolve de lui-même",
+    "Analyser et définir clairement le problème",
+    "Reporter le problème à quelqu'un d'autre pour qu'il le résolve"
+    ],
+    "answer": "Analyser et définir clairement le problème",
+    "level": "Facile"
+    },
+    {
+    "question": "Qu'est-ce que la pensée critique dans le contexte de la résolution de problèmes?",
+    "options": [
+    "Accepter les idées sans remise en question",
+    "Critiquer sévèrement les idées des autres",
+    "Évaluer objectivement les informations et les arguments pour prendre des décisions informées",
+    "Éviter de remettre en question ses propres croyances et opinions"
+    ],
+    "answer": "Évaluer objectivement les informations et les arguments pour prendre des décisions informées",
+    "level": "Facile"
+    },
+    {
+    "question": "Qu'est-ce que la méthode '5 Pourquoi'?",
+    "options": [
+    "Une méthode pour poser des questions superficielles",
+    "Une méthode pour creuser profondément pour identifier la cause racine d'un problème en posant la question 'Pourquoi?' à plusieurs reprises",
+    "Une méthode pour éviter la responsabilité en rejetant le blâme sur quelqu'un d'autre",
+    "Une méthode pour simplifier la résolution de problèmes en trouvant rapidement une solution"
+    ],
+    "answer": "Une méthode pour creuser profondément pour identifier la cause racine d'un problème en posant la question 'Pourquoi?' à plusieurs reprises",
+    "level": "Facile"
+    },
+    {
+    "question": "Qu'est-ce que le brainstorming?",
+    "options": [
+    "Une méthode pour restreindre les idées et les solutions",
+    "Une méthode pour générer rapidement de nombreuses idées en encourageant la créativité et l'expression libre",
+    "Une méthode pour accepter les premières idées qui viennent à l'esprit",
+    "Une méthode pour ignorer complètement les idées des autres"
+    ],
+    "answer": "Une méthode pour générer rapidement de nombreuses idées en encourageant la créativité et l'expression libre",
+    "level": "Facile"
+    },
+    {
+    "question": "Quelle est la différence entre la résolution de problèmes réactive et proactive?",
+    "options": [
+    "La résolution de problèmes réactive attend que les problèmes se produisent, tandis que la résolution proactive anticipe et prévient les problèmes",
+    "La résolution de problèmes réactive est plus rapide que la résolution proactive",
+    "La résolution de problèmes réactive est plus efficace que la résolution proactive",
+    "La résolution de problèmes proactive est réservée aux managers et aux dirigeants"
+    ],
+    "answer": "La résolution de problèmes réactive attend que les problèmes se produisent, tandis que la résolution proactive anticipe et prévient les problèmes",
+    "level": "Moyen"
+    },
+    {
+    "question": "Quelle est l'étape suivante après avoir identifié les solutions potentielles à un problème?",
+    "options": [
+    "Sélectionner la première solution qui semble appropriée",
+    "Analyser les avantages et les inconvénients de chaque solution et choisir la meilleure option",
+    "Ignorer les solutions et abandonner le problème",
+    "Reporter le problème à quelqu'un d'autre pour qu'il prenne la décision à votre place"
+    ],
+    "answer": "Analyser les avantages et les inconvénients de chaque solution et choisir la meilleure option",
+    "level": "Moyen"
+    },
+    {
+    "question": "Qu'est-ce que la prise de décision basée sur des données dans la résolution de problèmes?",
+    "options": [
+    "Prendre des décisions rapidement sans tenir compte des faits ou des informations pertinentes",
+    "Prendre des décisions en se basant uniquement sur son intuition et son instinct",
+    "Prendre des décisions en utilisant des données et des informations factuelles pour évaluer les options",
+    "Prendre des décisions en se fiant uniquement à l'opinion des autres"
+    ],
+    "answer": "Prendre des décisions en utilisant des données et des informations factuelles pour évaluer les options",
+    "level": "Moyen"
+    },
+    {
+    "question": "Qu'est-ce que l'analyse des risques dans la résolution de problèmes?",
+    "options": [
+    "Éviter de prendre des risques à tout prix",
+    "Identifier et évaluer les risques potentiels associés à chaque solution proposée",
+    "Sélectionner la solution la plus risquée pour obtenir les récompenses les plus élevées",
+    "Ignorer complètement les risques et espérer que tout se passera bien"
+    ],
+    "answer": "Identifier et évaluer les risques potentiels associés à chaque solution proposée",
+    "level": "Moyen"
+    },
+    {
+    "question": "Qu'est-ce que la créativité dans la résolution de problèmes?",
+    "options": [
+    "Suivre les règles strictes et les conventions établies",
+    "Penser en dehors des sentiers battus pour trouver des solutions innovantes",
+    "Copier les idées des autres sans apporter de contribution personnelle",
+    "Rejeter les nouvelles idées en faveur de l'approche traditionnelle"
+    ],
+    "answer": "Penser en dehors des sentiers battus pour trouver des solutions innovantes",
+    "level": "Moyen"
+    }
+    ]
+    }

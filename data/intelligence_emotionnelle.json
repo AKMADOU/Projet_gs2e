@@ -1,0 +1,115 @@
+{
+    "sujet": "Quiz sur l'Intelligence Émotionnelle",
+    "questions": [
+    {
+    "question": "Qu'est-ce que l'intelligence émotionnelle?",
+    "options": [
+    "La capacité à résoudre des problèmes mathématiques complexes",
+    "La capacité à comprendre, gérer et utiliser efficacement les émotions pour guider la pensée et le comportement",
+    "La capacité à ignorer complètement les émotions",
+    "La capacité à dissimuler ses émotions à tout moment"
+    ],
+    "answer": "La capacité à comprendre, gérer et utiliser efficacement les émotions pour guider la pensée et le comportement",
+    "level": "Facile"
+    },
+    {
+    "question": "Pourquoi l'intelligence émotionnelle est-elle importante?",
+    "options": [
+    "Elle n'est pas importante car seules les compétences techniques comptent",
+    "Elle permet de comprendre et de gérer ses propres émotions ainsi que celles des autres, ce qui est essentiel pour réussir dans la vie professionnelle et personnelle",
+    "Elle permet de cacher ses émotions pour paraître plus professionnel",
+    "Elle ne joue aucun rôle dans les interactions humaines"
+    ],
+    "answer": "Elle permet de comprendre et de gérer ses propres émotions ainsi que celles des autres, ce qui est essentiel pour réussir dans la vie professionnelle et personnelle",
+    "level": "Facile"
+    },
+    {
+    "question": "Quelles sont les composantes de l'intelligence émotionnelle selon le modèle de Daniel Goleman?",
+    "options": [
+    "Créativité, intelligence analytique, mémoire, intuition",
+    "Connaissance de soi, maîtrise de soi, conscience sociale, gestion des relations",
+    "Sens de l'humour, intelligence spatiale, compétences linguistiques, compétences musicales",
+    "Impulsivité, agressivité, indifférence, arrogance"
+    ],
+    "answer": "Connaissance de soi, maîtrise de soi, conscience sociale, gestion des relations",
+    "level": "Facile"
+    },
+    {
+    "question": "Qu'est-ce que la connaissance de soi en intelligence émotionnelle?",
+    "options": [
+    "La capacité à connaître les émotions des autres",
+    "La capacité à reconnaître et à comprendre ses propres émotions, forces, faiblesses, valeurs et objectifs",
+    "La capacité à se concentrer uniquement sur ses propres besoins",
+    "La capacité à cacher ses émotions à soi-même"
+    ],
+    "answer": "La capacité à reconnaître et à comprendre ses propres émotions, forces, faiblesses, valeurs et objectifs",
+    "level": "Facile"
+    },
+    {
+    "question": "Qu'est-ce que la maîtrise de soi en intelligence émotionnelle?",
+    "options": [
+    "La capacité à contrôler les émotions des autres",
+    "La capacité à contrôler ses propres émotions, impulsions et comportements",
+    "La capacité à ignorer complètement ses émotions",
+    "La capacité à se conformer aux attentes des autres"
+    ],
+    "answer": "La capacité à contrôler ses propres émotions, impulsions et comportements",
+    "level": "Facile"
+    },
+    {
+    "question": "Qu'est-ce que la conscience sociale en intelligence émotionnelle?",
+    "options": [
+    "La capacité à ignorer les émotions des autres",
+    "La capacité à comprendre et à empathiser avec les émotions des autres",
+    "La capacité à manipuler les émotions des autres pour son propre bénéfice",
+    "La capacité à être indifférent aux émotions des autres"
+    ],
+    "answer": "La capacité à comprendre et à empathiser avec les émotions des autres",
+    "level": "Facile"
+    },
+    {
+    "question": "Qu'est-ce que la gestion des relations en intelligence émotionnelle?",
+    "options": [
+    "La capacité à éviter toute interaction sociale",
+    "La capacité à développer et à entretenir des relations saines et satisfaisantes avec les autres",
+    "La capacité à manipuler les relations pour son propre bénéfice",
+    "La capacité à ignorer les besoins et les émotions des autres"
+    ],
+    "answer": "La capacité à développer et à entretenir des relations saines et satisfaisantes avec les autres",
+    "level": "Facile"
+    },
+    {
+    "question": "Quelle est la différence entre l'intelligence émotionnelle et le quotient intellectuel (QI)?",
+    "options": [
+    "Il n'y a pas de différence, l'intelligence émotionnelle et le QI sont les mêmes",
+    "Le QI mesure uniquement l'intelligence analytique et cognitive, tandis que l'intelligence émotionnelle mesure la capacité à comprendre et à gérer les émotions",
+    "Le QI mesure uniquement les compétences sociales, tandis que l'intelligence émotionnelle mesure l'intelligence analytique",
+    "Le QI mesure la capacité à comprendre et à gérer les émotions, tandis que l'intelligence émotionnelle mesure les compétences cognitives"
+    ],
+    "answer": "Le QI mesure uniquement l'intelligence analytique et cognitive, tandis que l'intelligence émotionnelle mesure la capacité à comprendre et à gérer les émotions",
+    "level": "Moyen"
+    },
+    {
+    "question": "Quels sont les avantages de l'intelligence émotionnelle dans le milieu professionnel?",
+    "options": [
+    "Diminution de la productivité et de l'efficacité",
+    "Amélioration des relations interpersonnelles, meilleure communication, prise de décision plus efficace et gestion plus réussie du stress",
+    "Augmentation des conflits et de l'insatisfaction au travail",
+    "Diminution de l'empathie et de la collaboration"
+    ],
+    "answer": "Amélioration des relations interpersonnelles, meilleure communication, prise de décision plus efficace et gestion plus réussie du stress",
+    "level": "Moyen"
+    },
+    {
+    "question": "Quels sont quelques signes d'une faible intelligence émotionnelle?",
+    "options": [
+    "Haute conscience de soi et maîtrise de soi",
+    "Compréhension et empathie envers les autres",
+    "Difficulté à reconnaître ses propres émotions et celles des autres, impulsivité, manque de maîtrise de soi",
+    "Sensibilité élevée et réaction excessive aux émotions"
+    ],
+    "answer": "Difficulté à reconnaître ses propres émotions et celles des autres, impulsivité, manque de maîtrise de soi",
+    "level": "Moyen"
+    }
+    ]
+    }

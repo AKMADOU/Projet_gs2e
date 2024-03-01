@@ -1,0 +1,115 @@
+{
+    "sujet": "Quiz sur la Créativité et l'Innovation",
+    "questions": [
+    {
+    "question": "Quelle est la différence entre la créativité et l'innovation?",
+    "options": [
+    "Il n'y a pas de différence, les termes sont interchangeables",
+    "La créativité est le processus de génération d'idées nouvelles et originales, tandis que l'innovation est la mise en œuvre réussie de ces idées pour créer de la valeur",
+    "La créativité consiste à suivre les règles et les conventions, tandis que l'innovation consiste à briser les règles",
+    "La créativité est réservée aux artistes et aux écrivains, tandis que l'innovation est réservée aux ingénieurs et aux scientifiques"
+    ],
+    "answer": "La créativité est le processus de génération d'idées nouvelles et originales, tandis que l'innovation est la mise en œuvre réussie de ces idées pour créer de la valeur",
+    "level": "Facile"
+    },
+    {
+    "question": "Qu'est-ce que la pensée divergente?",
+    "options": [
+    "La pensée convergente",
+    "La pensée linéaire",
+    "La pensée créative qui explore de multiples solutions et perspectives",
+    "La pensée traditionnelle"
+    ],
+    "answer": "La pensée créative qui explore de multiples solutions et perspectives",
+    "level": "Facile"
+    },
+    {
+    "question": "Quels sont les éléments clés du processus de créativité?",
+    "options": [
+    "Suivre strictement les règles et les procédures établies",
+    "Éviter toute forme de risque ou d'incertitude",
+    "Explorer de nouvelles idées, poser des questions, prendre des risques et expérimenter",
+    "Ignorer complètement les suggestions des autres"
+    ],
+    "answer": "Explorer de nouvelles idées, poser des questions, prendre des risques et expérimenter",
+    "level": "Facile"
+    },
+    {
+    "question": "Qu'est-ce que le brainstorming?",
+    "options": [
+    "Une méthode pour restreindre les idées et les solutions",
+    "Une méthode pour générer rapidement de nombreuses idées en encourageant la créativité et l'expression libre",
+    "Une méthode pour ignorer les suggestions des autres",
+    "Une méthode pour évaluer uniquement les idées positives"
+    ],
+    "answer": "Une méthode pour générer rapidement de nombreuses idées en encourageant la créativité et l'expression libre",
+    "level": "Facile"
+    },
+    {
+    "question": "Qu'est-ce que la pensée convergente?",
+    "options": [
+    "La pensée divergente",
+    "La pensée linéaire",
+    "La pensée qui explore de multiples solutions et perspectives",
+    "La pensée traditionnelle"
+    ],
+    "answer": "La pensée linéaire",
+    "level": "Facile"
+    },
+    {
+    "question": "Qu'est-ce que la culture de l'innovation?",
+    "options": [
+    "Une culture qui valorise la conformité et le respect strict des règles établies",
+    "Une culture qui encourage la créativité, la prise de risque et l'expérimentation pour générer de nouvelles idées et améliorer continuellement les processus",
+    "Une culture qui décourage toute forme de changement et d'innovation",
+    "Une culture qui se concentre uniquement sur la performance à court terme sans tenir compte de l'avenir"
+    ],
+    "answer": "Une culture qui encourage la créativité, la prise de risque et l'expérimentation pour générer de nouvelles idées et améliorer continuellement les processus",
+    "level": "Moyen"
+    },
+    {
+    "question": "Quelles sont les étapes du processus d'innovation?",
+    "options": [
+    "Imposer des idées aux employés, ne pas écouter les suggestions externes",
+    "Explorer de nouvelles idées, prototyper, tester, implémenter et évaluer",
+    "Ignorer complètement les nouvelles technologies et les tendances du marché",
+    "Se concentrer uniquement sur les méthodes traditionnelles et éprouvées"
+    ],
+    "answer": "Explorer de nouvelles idées, prototyper, tester, implémenter et évaluer",
+    "level": "Moyen"
+    },
+    {
+    "question": "Qu'est-ce que la résistance à l'innovation?",
+    "options": [
+    "Une attitude ouverte et favorable à l'exploration de nouvelles idées",
+    "Une attitude de refus ou de rejet envers le changement et les nouvelles idées",
+    "Une attitude de collaboration et d'encouragement envers les autres",
+    "Une attitude d'indifférence et de désintérêt envers l'innovation"
+    ],
+    "answer": "Une attitude de refus ou de rejet envers le changement et les nouvelles idées",
+    "level": "Moyen"
+    },
+    {
+    "question": "Quelles sont les caractéristiques des leaders créatifs?",
+    "options": [
+    "Rigidité, manque de flexibilité, résistance au changement",
+    "Ouverture d'esprit, curiosité, prise de risque, encouragement de la créativité chez les autres",
+    "Conformité, suivi strict des règles établies",
+    "Indifférence envers les nouvelles idées et les suggestions des autres"
+    ],
+    "answer": "Ouverture d'esprit, curiosité, prise de risque, encouragement de la créativité chez les autres",
+    "level": "Moyen"
+    },
+    {
+    "question": "Qu'est-ce que le prototypage dans le processus d'innovation?",
+    "options": [
+    "Ignorer complètement les idées",
+    "Concevoir et développer une version expérimentale ou partielle d'un produit, d'un service ou d'un processus pour tester et améliorer son efficacité avant son implémentation complète",
+    "Limiter les idées aux concepts existants",
+    "Reporter l'implémentation des idées à une date ultérieure"
+    ],
+    "answer": "Concevoir et développer une version expérimentale ou partielle d'un produit, d'un service ou d'un processus pour tester et améliorer son efficacité avant son implémentation complète",
+    "level": "Moyen"
+    }
+    ]
+    }

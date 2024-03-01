@@ -1,0 +1,71 @@
+
+
+1. Quel est l'objectif principal de la Data Science ?
+a. Analyser des données
+b. Créer des données
+c. Stocker des données
+d. Supprimer des données
+Réponse : a. Analyser des données
+
+2. Quel est le terme utilisé pour décrire l'ensemble des techniques de traitement et d'analyse de données ?
+a. Data mining
+b. Data storage
+c. Data cleansing
+d. Data manipulation
+Réponse : a. Data mining
+
+3. Quel langage de programmation est souvent utilisé en Data Science ?
+a. Java
+b. Python
+c. C++
+d. HTML
+Réponse : b. Python
+
+4. Quel type de données est souvent utilisé en Data Science ?
+a. Données qualitatives
+b. Données quantitatives
+c. Données binaires
+d. Données textuelles
+Réponse : b. Données quantitatives
+
+5. Quelle est l'étape initiale de tout projet de Data Science ?
+a. La collecte de données
+b. L'analyse de données
+c. La visualisation de données
+d. La modélisation de données
+Réponse : a. La collecte de données
+
+6. Quel est le terme utilisé pour décrire une méthode d'apprentissage automatique qui permet aux machines d'apprendre sans être explicitement programmées ?
+a. Deep learning
+b. Machine learning
+c. Data mining
+d. Data cleansing
+Réponse : b. Machine learning
+
+7. Quel outil est souvent utilisé pour visualiser et présenter les données en Data Science ?
+a. Excel
+b. Photoshop
+c. Tableau
+d. Outlook
+Réponse : c. Tableau
+
+8. Quel type d'algorithme est utilisé pour trouver des modèles dans les données ?
+a. Les algorithmes de clustering
+b. Les algorithmes de classification
+c. Les algorithmes de régression
+d. Les algorithmes de classification non supervisée
+Réponse : d. Les algorithmes de classification non supervisée
+
+9. Quelle étape de la méthode CRISP-DM (Cross Industry Standard Process for Data Mining) consiste à sélectionner les données les plus pertinentes pour l'analyse ?
+a. Data preparation
+b. Data understanding
+c. Data integration
+d. Data mining
+Réponse : b. Data understanding
+
+10. Quel est le terme utilisé pour décrire la capacité d'un modèle à généraliser à de nouvelles données ?
+a. Overfitting
+b. Underfitting
+c. Bias
+d. Variance
+Réponse : b. Underfitting
