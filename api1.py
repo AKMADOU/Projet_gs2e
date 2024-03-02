@@ -30,20 +30,21 @@ def json_to_sqlite(file_path, conn, theme):
     for question in data['questions']:
         string_list=json.dumps(question['options'],ensure_ascii=False)
         #dict_options={liste_python[0].strip():"option1",liste_python[1].strip():"option2",liste_python[2].strip():"option3",liste_python[3].strip():"option4"}
-        liste_python = string_list.strip('[]').replace('"', '').replace('/','').split(', ')
+        lliste_python = string_list.strip('[]').replace('/','').split('", ')
         cursor.execute('''INSERT INTO quiz (question, option1,option2,option3,option4, answer, level,code_quiz,theme)
                         VALUES (?, ?, ?, ?,?,?,?,?,? )''',
                     (question['question'],
-                        liste_python[0],
-                        liste_python[1],
-                        liste_python[2],
-                        liste_python[3],
+                        liste_python[0].replace('"', ''),
+                        liste_python[1].replace('"', ''),
+                        liste_python[2].replace('"', ''),
+                        liste_python[3].replace('"', ''),
                         question['answer'].strip(),
                         question['level'],
                         random_string,
                         theme,
                         
                         )),
+
 
 
     conn.commit()
